@@ -1,7 +1,7 @@
 ### Test Técnico - Engenheiro de RPA ###
 Este projeto foi realizado com base em state machines, utilizando REFramework
 
-## 🎯 Objetivo:
+## 🎯 Objetivo
 Este workflow atua como Performer
 - Buscar transaction items na queue do orchestrator;
 - Enviar dados através de POST requests para a API.
