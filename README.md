@@ -7,7 +7,7 @@ Este workflow atua como Performer
 - Enviar dados através de POST requests para a API.
 
 ## 📑 State Machines
-Nesta sessão serão descritos as principais tasks realizadas por cada state machine do REF deste repositório
+Nesta sessão serão descritas as principais tasks realizadas por cada state machine do REF deste repositório
 
 **1. INITIALIZATION**
  - Inclui a execução das atividades de inicialização padrão do template de REFramework, sendo a principal delas a leitura do arquivo Config.xlsx, aqui foram setadas a pasta do orchestrator em que a queue se encontra assim como o nome da queue;
