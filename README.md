@@ -32,6 +32,6 @@ Para executar localmente este app, siga as intruções abaixo:
 
 ## 🔗 Links
 
-- Repositório do backend [aqui](https://github.com/osmfaria/roit-api)
+- Repositório do backend | API [aqui](https://github.com/osmfaria/roit-api)
 - Repositório do workflow que atua como dispatcher [aqui](https://github.com/osmfaria/RoitRPA)
 
