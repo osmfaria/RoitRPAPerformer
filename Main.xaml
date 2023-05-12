@@ -732,7 +732,7 @@
                 <Transition sap2010:Annotation.AnnotationText="Business Rule Exception" DisplayName="Business Exception" sap:VirtualizedContainerService.HintSize="448.8,537.6" sap2010:WorkflowViewState.IdRef="Transition_1">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                      <av:PointCollection x:Key="ConnectorLocation">361.383333333333,628.666666666667 361.383333333333,658.666666666667 505.33333333333303,658.666666666667 505.33333333333303,246.233333333333 475.33333333333303,246.233333333333</av:PointCollection>
+                      <av:PointCollection x:Key="ConnectorLocation">361.383333333333,628.666666666667 361.383333333333,658.666666666667 560.5,658.666666666667 560.5,257.03999999999996 578.333333333333,257.03999999999996 578.333333333333,246.233333333333 475.33333333333303,246.233333333333</av:PointCollection>
                       <x:Int32 x:Key="SrcConnectionPointIndex">43</x:Int32>
                       <x:Int32 x:Key="DestConnectionPointIndex">20</x:Int32>
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
