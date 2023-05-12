@@ -1,5 +1,5 @@
 ### Test Técnico - Engenheiro de RPA ###
-Este projeto foi realizado com base state machines, utilizando REFramework
+Este projeto foi realizado com base em state machines, utilizando REFramework
 
 ## 🎯 Objetivo:
 Este workflow atua como Performer
