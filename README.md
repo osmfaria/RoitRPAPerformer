@@ -27,7 +27,7 @@ Para executar localmente este app, siga as intruções abaixo:
 
 - Clone este repositório;
 - No arquivo Config.xlsx os seguintes campos devem ser preenchidos: 
-    - OrchestratorQueueName (Criei uma Queue no orchestrator e indique aqui o nome)
+    - OrchestratorQueueName (Criei uma queue no orchestrator e indique aqui o nome)
     - OrchestratorQueueFolder (Indique qual pasta está sendo utilizada no orchestrator)
 
 ## 🔗 Links
